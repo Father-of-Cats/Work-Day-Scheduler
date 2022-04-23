@@ -6,10 +6,10 @@ This web app can be used as a daily planner, tasks will be saved locally and tas
 ## Table of Contents
 * [Installation](#installation)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [License](#license)
 * [Username](#username)
 * [Questions](#questions)
+* [Deployed](#deployed)
 ## Screenshot
 ![Screenshot](/assets/img/Dayscheduler.png)
 ## Installation
@@ -20,3 +20,5 @@ email me directly
 [Father-of-Cats](https://www.github.com/Father-of-Cats)
 ## Questions
 [huntknelson@gmail.com](huntknelson@gmail.com)
+## Deployed
+[Here](https://father-of-cats.github.io/Work-Day-Scheduler/)
