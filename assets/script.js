@@ -30,9 +30,10 @@ $(document).ready(function() {
         // loops through the .row DOM element activating the function
         $("textarea").each(function() {
             // current hour from moment js
-            let currentTime = 12
+            let currentTime = moment().hours();
             // pulls interger from id of the parent row
             let timeBlock = parseInt($(this).parent().attr("id"));
+            // below block checks the row.id against moment's clock
             if(timeBlock > currentTime) {
                 $(this).addClass("future")
                 $(this).removeClass("present")
